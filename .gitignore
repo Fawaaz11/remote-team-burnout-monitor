@@ -12,3 +12,10 @@ yarn-error.log*
 # Build output
 dist/
 build/
+
+node_modules/
+.env
+
+server/node_modules/
+client/node_modules/
+
